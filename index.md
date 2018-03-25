@@ -3,7 +3,7 @@
 layout: home
 ---
 
-# Add sample content
+# Add a title here
 
 ## Experiment with subheadings
 
