@@ -1,5 +1,5 @@
 ---
-# This file can remain blank
+# This file could be blank
 layout: home
 ---
 
