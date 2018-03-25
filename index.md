@@ -3,6 +3,6 @@
 layout: home
 ---
 
-# Add title here.
+# Add title here
 
 This site demonstrates different pages you can create in GitHub Pages.
