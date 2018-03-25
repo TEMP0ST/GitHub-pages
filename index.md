@@ -3,4 +3,4 @@
 layout: home
 ---
 This is a website to show a few options in GitHub Pages.
-(https://pixabay.com/en/cartography-continents-earth-3244166/)
+[Map image](https://pixabay.com/en/cartography-continents-earth-3244166/)
