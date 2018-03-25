@@ -7,6 +7,6 @@ layout: home
 
 ## Experiment with subheadings
 
-** Emphasize what you're typing.
+** Emphasize what you're typing.**
 
 *Really mean it.*
